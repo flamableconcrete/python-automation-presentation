@@ -3,6 +3,12 @@
 This is a presentation given by Jared Ondricek at the [NOVA-Python Meetup.com group][1]
 on 10/27/2016.
 
+The presentation covered the following three Python libraries:
+
+* [Ansible](http://docs.ansible.com)
+* [Supervisor](http://supervisord.org)
+* [Fabric](http://www.fabfile.org)
+
 [View the static presentation!][2]  
 [View the live recording!][3]
 
