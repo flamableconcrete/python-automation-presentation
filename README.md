@@ -3,7 +3,7 @@
 This is a presentation given by Jared Ondricek at the [NOVA-Python Meetup.com group][1]
 on 10/27/2016.
 
-You can view the presentation here: 
+You can view the presentation here: https://flamableconcrete.github.io/python-automation-presentation
 
 In order to render the presentation, you will need to be using python 3 and
 run the following command

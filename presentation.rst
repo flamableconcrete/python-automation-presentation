@@ -27,7 +27,6 @@ Using Ansible, Fabric, and Supervisor
 -------------------------------------
 
 Jared Ondricek
-sdfkjhdsfkjsdhf
 
 flamableconcrete@gmail.com
 https://github.com/flamableconcrete
