@@ -38,5 +38,5 @@ python3 -m http.server
 
 Then going to 127.0.0.1:8000 in your browser. Enjoy!
 
-[1]: https://www.meetup.com/NOVA-Python/
+[1]: https://www.meetup.com/NOVA-Python/events/234970214/
 [2]: https://github.com/regebro/hovercraft
